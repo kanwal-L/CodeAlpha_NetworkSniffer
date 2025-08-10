@@ -1,7 +1,7 @@
 """
 CodeAlpha Internship - Task 1
-Basic Network Sniffer (No Scapy Dependency)
-Author: [Your Name]
+Basic Network Sniffer
+Name: Laraib Kanwal
 Description:
     Captures network packets using Python's socket library and extracts:
     Source IP, Destination IP, Protocol, and Packet Length.
@@ -38,3 +38,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
