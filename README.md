@@ -40,6 +40,7 @@ This method avoids the need for external libraries like Scapy and works on Windo
 1. Open PowerShell/Command Prompt **as Administrator**  
 2. Go to the folder where `network_sniffer.py` is located:
    ```powershell
-   cd "path\to\your\folder"
+   cd "path\
+
 
 
